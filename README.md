@@ -9,3 +9,4 @@ Tool Pack의 코드를 모두 사용하지는 않습니다.
 
 
 [![Video Label](https://youtu.be/XW9zx2N-Sno/0.jpg)](https://youtu.be/XW9zx2N-Sno) Video Label
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XW9zx2N-Sno/0.jpg)](http://www.youtube.com/watch?v=XW9zx2N-Sno)
